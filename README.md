@@ -1,2 +1,2 @@
-# el
-eş
+# 1m-no-luai
+yapay zeko
